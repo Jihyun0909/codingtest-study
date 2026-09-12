@@ -1,4 +1,4 @@
-# [Lv.0] 아이스 아메리카노
+# [Lv.0] OX 퀴즈
 
 ### 🔗 문제 링크
 - [문제 출처 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120907)
